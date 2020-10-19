@@ -1,0 +1,17 @@
+{
+  "data": {
+    "attributes": {
+      "is-destroy":false,
+      "message": "Terraform Cloud API is Magic! 🦄 🌈 🧙‍♂️  Mik Super-Charged!!!"
+    },
+    "type":"runs",
+    "relationships": {
+      "workspace": {
+        "data": {
+          "type": "workspaces",
+          "id": "ws-bgMbB9aPsr9Sezh4"
+        }
+      }
+    }
+  }
+}
